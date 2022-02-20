@@ -1,0 +1,18 @@
+D:\8.Kuliah\Semester 4\8. ProgDesk\Tugas 1\Pukul TIkus\Pukul TIkus\bin\Debug\net6.0-windows\Pukul TIkus.exe
+D:\8.Kuliah\Semester 4\8. ProgDesk\Tugas 1\Pukul TIkus\Pukul TIkus\bin\Debug\net6.0-windows\Pukul TIkus.deps.json
+D:\8.Kuliah\Semester 4\8. ProgDesk\Tugas 1\Pukul TIkus\Pukul TIkus\bin\Debug\net6.0-windows\Pukul TIkus.runtimeconfig.json
+D:\8.Kuliah\Semester 4\8. ProgDesk\Tugas 1\Pukul TIkus\Pukul TIkus\bin\Debug\net6.0-windows\Pukul TIkus.dll
+D:\8.Kuliah\Semester 4\8. ProgDesk\Tugas 1\Pukul TIkus\Pukul TIkus\bin\Debug\net6.0-windows\ref\Pukul TIkus.dll
+D:\8.Kuliah\Semester 4\8. ProgDesk\Tugas 1\Pukul TIkus\Pukul TIkus\bin\Debug\net6.0-windows\Pukul TIkus.pdb
+D:\8.Kuliah\Semester 4\8. ProgDesk\Tugas 1\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\Pukul TIkus.vbproj.AssemblyReference.cache
+D:\8.Kuliah\Semester 4\8. ProgDesk\Tugas 1\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\Pukul_TIkus.Form1.resources
+D:\8.Kuliah\Semester 4\8. ProgDesk\Tugas 1\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\Pukul_TIkus.Resources.resources
+D:\8.Kuliah\Semester 4\8. ProgDesk\Tugas 1\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\Pukul TIkus.vbproj.GenerateResource.cache
+D:\8.Kuliah\Semester 4\8. ProgDesk\Tugas 1\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\Pukul TIkus.GeneratedMSBuildEditorConfig.editorconfig
+D:\8.Kuliah\Semester 4\8. ProgDesk\Tugas 1\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\Pukul TIkus.AssemblyInfoInputs.cache
+D:\8.Kuliah\Semester 4\8. ProgDesk\Tugas 1\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\Pukul TIkus.AssemblyInfo.vb
+D:\8.Kuliah\Semester 4\8. ProgDesk\Tugas 1\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\Pukul TIkus.vbproj.CoreCompileInputs.cache
+D:\8.Kuliah\Semester 4\8. ProgDesk\Tugas 1\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\Pukul TIkus.dll
+D:\8.Kuliah\Semester 4\8. ProgDesk\Tugas 1\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\ref\Pukul TIkus.dll
+D:\8.Kuliah\Semester 4\8. ProgDesk\Tugas 1\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\Pukul TIkus.pdb
+D:\8.Kuliah\Semester 4\8. ProgDesk\Tugas 1\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\Pukul TIkus.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+Baris 1
+(kolom, baris)
+kolom : 8, 79, 150, 221, 292
+baris : 6, 70, 131, 195

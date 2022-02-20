@@ -1,0 +1,31 @@
+Public Class Form1
+
+    Dim rnd As Random = New Random()
+    Dim arrayPosKolom() As Integer = New Integer() {8, 79, 150, 221, 292}
+    Dim arrayPosBaris() As Integer = New Integer() {6, 70, 131, 195}
+    Dim btn As New Button()
+
+    Private Sub btnStart_Click(sender As Object, e As EventArgs) Handles btnStart.Click
+        If btnStart.Text = "Start" Then
+            btnStart.Text = "Stop"
+            TimerTikus.Enabled = True
+        Else
+            btnStart.Text = "Start"
+            TimerTikus.Enabled = False
+            MsgBox("Skor Anda = " & lblSkor.Text,, "Hasil Game")
+        End If
+    End Sub
+
+    Private Sub TimerTikus_Tick(sender As Object, e As EventArgs) Handles TimerTikus.Tick
+        Dim posKolom As Integer = arrayPosKolom(rnd.Next(0, arrayPosKolom.Count))
+        Dim posBaris As Integer = arrayPosBaris(rnd.Next(0, arrayPosBaris.Count))
+
+        btn = New Button()
+        btn.Location = New Point(posKolom, posBaris)
+        btn.Size = New Size(65, 58)
+        btn.Image = Image.FromFile("tikus2.png")
+        lblRandom.Text = "Random: " & CStr(posKolom) & "," & CStr(posBaris)
+    End Sub
+
+
+End Class
