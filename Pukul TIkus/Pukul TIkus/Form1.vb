@@ -1,8 +1,6 @@
 ﻿Public Class Form1
 
     Dim rnd As Random = New Random()
-    Dim arrayPosKolom() As Integer = New Integer() {8, 79, 150, 221, 292}
-    Dim arrayPosBaris() As Integer = New Integer() {6, 70, 131, 195}
     Dim btn As New Button()
     Dim skor As Integer
 
@@ -19,18 +17,34 @@
     End Sub
 
     Private Sub TimerTikus_Tick(sender As Object, e As EventArgs) Handles TimerTikus.Tick
-        Dim posKolom As Integer = arrayPosKolom(rnd.Next(0, arrayPosKolom.Count))
-        Dim posBaris As Integer = arrayPosBaris(rnd.Next(0, arrayPosBaris.Count))
+        Dim kolom As Integer = 6
+        Dim baris As Integer = 4
 
-        btn = New Button()
-        btn.Name = "btnTikus"
-        btn.Location = New Point(posKolom, posBaris)
-        btn.Size = New Size(65, 58)
-        btn.Image = Image.FromFile("tikus2.png")
-        btn.BringToFront()
-        lblRandom.Text = "Random: " & CStr(posKolom) & "," & CStr(posBaris)
-        Panel1.Controls.Add(btn)
-        AddHandler btn.Click, AddressOf Me.buttonClick
+        Panel1.Controls.Clear()
+
+        Dim buttons As Button() = New Button() {}
+        For i As Integer = 0 To baris - 1
+            For j As Integer = 0 To kolom - 1
+                btn = New Button()
+                btn.Visible = False
+                btn.Size = New Size(60, 55)
+                btn.Image = Image.FromFile("tikus2.png")
+                btn.Location = New Point(5 + j * 60, 20 + i * 60)
+                btn.Name = "btnTikus"
+                ReDim Preserve buttons(buttons.Length)
+                buttons(buttons.Length - 1) = btn
+                Panel1.Controls.Add(btn)
+            Next
+        Next
+
+        Dim btnshowindex As Integer = rnd.Next(0, buttons.Length)
+        buttons(btnshowindex).Visible = True
+
+        lblRandom.Text = "random: " & buttons(btnshowindex).Location.X.ToString & "," &
+            buttons(btnshowindex).Location.Y.ToString
+
+        AddHandler buttons(btnshowindex).Click, AddressOf Me.buttonClick
+
     End Sub
 
     Private Sub buttonClick(ByVal sender As System.Object, ByVal e As System.EventArgs)
