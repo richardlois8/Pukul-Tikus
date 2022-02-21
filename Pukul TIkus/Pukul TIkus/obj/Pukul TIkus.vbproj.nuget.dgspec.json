@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\8.Kuliah\\Semester 4\\8. ProgDesk\\Tugas 1\\Pukul TIkus\\Pukul TIkus\\Pukul TIkus.vbproj": {}
+    "C:\\git-repos\\PukulTikus\\Pukul TIkus\\Pukul TIkus\\Pukul TIkus.vbproj": {}
   },
   "projects": {
-    "D:\\8.Kuliah\\Semester 4\\8. ProgDesk\\Tugas 1\\Pukul TIkus\\Pukul TIkus\\Pukul TIkus.vbproj": {
+    "C:\\git-repos\\PukulTikus\\Pukul TIkus\\Pukul TIkus\\Pukul TIkus.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\8.Kuliah\\Semester 4\\8. ProgDesk\\Tugas 1\\Pukul TIkus\\Pukul TIkus\\Pukul TIkus.vbproj",
+        "projectUniqueName": "C:\\git-repos\\PukulTikus\\Pukul TIkus\\Pukul TIkus\\Pukul TIkus.vbproj",
         "projectName": "Pukul TIkus",
-        "projectPath": "D:\\8.Kuliah\\Semester 4\\8. ProgDesk\\Tugas 1\\Pukul TIkus\\Pukul TIkus\\Pukul TIkus.vbproj",
-        "packagesPath": "C:\\Users\\Richard\\.nuget\\packages\\",
-        "outputPath": "D:\\8.Kuliah\\Semester 4\\8. ProgDesk\\Tugas 1\\Pukul TIkus\\Pukul TIkus\\obj\\",
+        "projectPath": "C:\\git-repos\\PukulTikus\\Pukul TIkus\\Pukul TIkus\\Pukul TIkus.vbproj",
+        "packagesPath": "C:\\Users\\Haniif\\.nuget\\packages\\",
+        "outputPath": "C:\\git-repos\\PukulTikus\\Pukul TIkus\\Pukul TIkus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Richard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Haniif\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

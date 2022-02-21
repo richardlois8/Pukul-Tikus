@@ -16,3 +16,21 @@ D:\8.Kuliah\Semester 4\8. ProgDesk\Tugas 1\Pukul TIkus\Pukul TIkus\obj\Debug\net
 D:\8.Kuliah\Semester 4\8. ProgDesk\Tugas 1\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\ref\Pukul TIkus.dll
 D:\8.Kuliah\Semester 4\8. ProgDesk\Tugas 1\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\Pukul TIkus.pdb
 D:\8.Kuliah\Semester 4\8. ProgDesk\Tugas 1\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\Pukul TIkus.genruntimeconfig.cache
+C:\git-repos\PukulTikus\Pukul TIkus\Pukul TIkus\bin\Debug\net6.0-windows\Pukul TIkus.exe
+C:\git-repos\PukulTikus\Pukul TIkus\Pukul TIkus\bin\Debug\net6.0-windows\Pukul TIkus.deps.json
+C:\git-repos\PukulTikus\Pukul TIkus\Pukul TIkus\bin\Debug\net6.0-windows\Pukul TIkus.runtimeconfig.json
+C:\git-repos\PukulTikus\Pukul TIkus\Pukul TIkus\bin\Debug\net6.0-windows\Pukul TIkus.dll
+C:\git-repos\PukulTikus\Pukul TIkus\Pukul TIkus\bin\Debug\net6.0-windows\ref\Pukul TIkus.dll
+C:\git-repos\PukulTikus\Pukul TIkus\Pukul TIkus\bin\Debug\net6.0-windows\Pukul TIkus.pdb
+C:\git-repos\PukulTikus\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\Pukul TIkus.vbproj.AssemblyReference.cache
+C:\git-repos\PukulTikus\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\Pukul_TIkus.Form1.resources
+C:\git-repos\PukulTikus\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\Pukul_TIkus.Resources.resources
+C:\git-repos\PukulTikus\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\Pukul TIkus.vbproj.GenerateResource.cache
+C:\git-repos\PukulTikus\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\Pukul TIkus.GeneratedMSBuildEditorConfig.editorconfig
+C:\git-repos\PukulTikus\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\Pukul TIkus.AssemblyInfoInputs.cache
+C:\git-repos\PukulTikus\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\Pukul TIkus.AssemblyInfo.vb
+C:\git-repos\PukulTikus\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\Pukul TIkus.vbproj.CoreCompileInputs.cache
+C:\git-repos\PukulTikus\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\Pukul TIkus.dll
+C:\git-repos\PukulTikus\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\ref\Pukul TIkus.dll
+C:\git-repos\PukulTikus\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\Pukul TIkus.pdb
+C:\git-repos\PukulTikus\Pukul TIkus\Pukul TIkus\obj\Debug\net6.0-windows\Pukul TIkus.genruntimeconfig.cache

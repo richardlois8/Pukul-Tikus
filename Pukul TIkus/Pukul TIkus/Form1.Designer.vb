@@ -28,6 +28,7 @@ Partial Class Form1
         Me.btnStart = New System.Windows.Forms.Button()
         Me.TimerTikus = New System.Windows.Forms.Timer(Me.components)
         Me.Panel1 = New System.Windows.Forms.Panel()
+        Me.TikusIlang = New System.Windows.Forms.Timer(Me.components)
         Me.SuspendLayout()
         '
         'lblSkor
@@ -42,7 +43,7 @@ Partial Class Form1
         'lblRandom
         '
         Me.lblRandom.AutoSize = True
-        Me.lblRandom.Location = New System.Drawing.Point(302, 296)
+        Me.lblRandom.Location = New System.Drawing.Point(20, 323)
         Me.lblRandom.Name = "lblRandom"
         Me.lblRandom.Size = New System.Drawing.Size(58, 15)
         Me.lblRandom.TabIndex = 1
@@ -50,7 +51,7 @@ Partial Class Form1
         '
         'btnStart
         '
-        Me.btnStart.Location = New System.Drawing.Point(162, 292)
+        Me.btnStart.Location = New System.Drawing.Point(165, 306)
         Me.btnStart.Name = "btnStart"
         Me.btnStart.Size = New System.Drawing.Size(75, 23)
         Me.btnStart.TabIndex = 2
@@ -59,7 +60,7 @@ Partial Class Form1
         '
         'TimerTikus
         '
-        Me.TimerTikus.Interval = 800
+        Me.TimerTikus.Interval = 1200
         '
         'Panel1
         '
@@ -68,11 +69,16 @@ Partial Class Form1
         Me.Panel1.Size = New System.Drawing.Size(372, 274)
         Me.Panel1.TabIndex = 3
         '
+        'TikusIlang
+        '
+        Me.TikusIlang.Enabled = True
+        Me.TikusIlang.Interval = 1250
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(396, 323)
+        Me.ClientSize = New System.Drawing.Size(396, 356)
         Me.Controls.Add(Me.btnStart)
         Me.Controls.Add(Me.lblRandom)
         Me.Controls.Add(Me.lblSkor)
@@ -89,4 +95,5 @@ Partial Class Form1
     Friend WithEvents btnStart As Button
     Friend WithEvents TimerTikus As Timer
     Friend WithEvents Panel1 As Panel
+    Friend WithEvents TikusIlang As Timer
 End Class
